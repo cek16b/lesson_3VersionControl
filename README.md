@@ -5,17 +5,17 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(September 28, 2017)
 
 ## Student Name:  
-(First and Last Name)
+Clayton Kuhlmeier
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment was designed to get us familiar with using Github.
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to log a project in Github
+2. How to retrieve a project from Github
+3. The importance of using Version Control Systems for projects.
 
 # lesson_3VersionControl
